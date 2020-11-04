@@ -1,0 +1,42 @@
+export const Spacing = {
+  inline: {
+    quark: 4,
+    nano: 8,
+    xxxs: 16,
+    xxs: 24,
+    xs: 32,
+    sm: 40,
+    md: 48,
+    lg: 64,
+    xl: 80,
+  },
+  inset: {
+    quarck: 4,
+    nano: 8,
+    xs: 16,
+    sm: 24,
+    md: 32,
+    lg: 40,
+  },
+  squish: {
+    quarck: '4px 8px',
+    nano: '8px 16px',
+    xs: '16px 24px',
+    sm: '16px 32px',
+  },
+  stack: {
+    quarck: 4,
+    nano: 8,
+    xxxs: 16,
+    xxs: 24,
+    xs: 32,
+    sm: 40,
+    md: 48,
+    lg: 56,
+    xl: 64,
+    xxl: 80,
+    xxxl: 120,
+    huge: 160,
+    giant: 200,
+  }
+}
